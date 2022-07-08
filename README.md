@@ -1,6 +1,6 @@
 ![Nyan City Studios Logo](https://user-images.githubusercontent.com/108959229/178078708-8ae033c6-b60d-4be7-9f20-def704bcaf89.jpg)
-# Soy un desarrollador de videojuegos indiependiente y [Youtuber](https://www.youtube.com/channel/UCMU2ACZ4_vtIBPWKdIWbbVg/videos), tengo 12 años y he hecho juegos como:
-
+# Somos Nyan City Studios un estudio de videojuegos indie especializados en el campo del terror psicologicos con algunas excepciones
+# Hemos hecho juegos como:
  ___
  
  ___
@@ -9,7 +9,8 @@
 ![6KzWHldO_4x](https://user-images.githubusercontent.com/100703882/156247670-320fc09d-dc57-40db-ab39-ee1562eb7880.png)
 
 # [The Quizzes Of H](https://helprogramador.github.io/The-Quizzes-Of-H)
-<img src="https://mail.google.com/mail/u/0?ui=2&amp;ik=c313b6d635&amp;attid=0.4&amp;permmsgid=msg-a:r-8331881403582514872&amp;th=18085e4f163712df&amp;view=fimg&amp;fur=ip&amp;sz=s0-l75-ft&amp;attbid=ANGjdJ_gHSsQOLK93VsQXUVgda14NrqatAryrCFYTPInc8GuVibOhsSYmE7Egm9r8x8lJj3IXfCRmvZ8NtiF032IrNmUuzQ8sJ2MZof2FUnwj1ubZ3eePyZWOusM4uQ&amp;disp=emb&amp;realattid=ii_l2p0d9uq0" alt="Screenshot_20220327-165224_The Quizzes Of H.jpg" width="400" height="700" style="margin-right:0px" data-image-whitelisted="" class="CToWUd">
+![The Quizzes of H logo](https://user-images.githubusercontent.com/108959229/178078997-5a3fb47e-3a7b-4796-be9f-331c46552b9d.png)
+
 
 
 

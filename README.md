@@ -5,7 +5,7 @@
  
  ___
  
-# [NyanEXE](https://nyan-city-studios.github.io/Nyan.EXE)
+# [Nyan.EXE](https://nyan-city-studios.github.io/Nyan.EXE)
 ![6KzWHldO_4x](https://user-images.githubusercontent.com/100703882/156247670-320fc09d-dc57-40db-ab39-ee1562eb7880.png)
 
 # [The Quizzes Of H](https://nyan-city-studios.github.io/The-Quizzes-Of-H)

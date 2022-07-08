@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+![DFKManCH_4x](https://user-images.githubusercontent.com/100703882/156246516-30be5953-b718-461c-816a-d4b5deeff2c8.jpg)
+# Soy un desarrollador de videojuegos indiependiente y [Youtuber](https://www.youtube.com/channel/UCMU2ACZ4_vtIBPWKdIWbbVg/videos), tengo 12 años y he hecho juegos como:
 
-You can use the [editor on GitHub](https://github.com/Nyan-City-Studios/Nyan-City-Studios.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+ ___
+ 
+ ___
+ 
+# [NyanEXE](https://helprogramador.github.io/Nyan.EXE)
+![6KzWHldO_4x](https://user-images.githubusercontent.com/100703882/156247670-320fc09d-dc57-40db-ab39-ee1562eb7880.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# [The Quizzes Of H](https://helprogramador.github.io/The-Quizzes-Of-H)
+<img src="https://mail.google.com/mail/u/0?ui=2&amp;ik=c313b6d635&amp;attid=0.4&amp;permmsgid=msg-a:r-8331881403582514872&amp;th=18085e4f163712df&amp;view=fimg&amp;fur=ip&amp;sz=s0-l75-ft&amp;attbid=ANGjdJ_gHSsQOLK93VsQXUVgda14NrqatAryrCFYTPInc8GuVibOhsSYmE7Egm9r8x8lJj3IXfCRmvZ8NtiF032IrNmUuzQ8sJ2MZof2FUnwj1ubZ3eePyZWOusM4uQ&amp;disp=emb&amp;realattid=ii_l2p0d9uq0" alt="Screenshot_20220327-165224_The Quizzes Of H.jpg" width="400" height="700" style="margin-right:0px" data-image-whitelisted="" class="CToWUd">
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Nyan-City-Studios/Nyan-City-Studios.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Twitter](https://twitter.com/H_Elprogramado)
+[Youtube](https://www.youtube.com/channel/UCMU2ACZ4_vtIBPWKdIWbbVg)
+[Itch.io](https://h-elprogramador.itch.io)

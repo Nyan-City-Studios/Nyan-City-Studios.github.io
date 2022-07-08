@@ -1,4 +1,4 @@
-![DFKManCH_4x](https://user-images.githubusercontent.com/100703882/156246516-30be5953-b718-461c-816a-d4b5deeff2c8.jpg)
+![Nyan City Studios Logo](https://user-images.githubusercontent.com/108959229/178078708-8ae033c6-b60d-4be7-9f20-def704bcaf89.jpg)
 # Soy un desarrollador de videojuegos indiependiente y [Youtuber](https://www.youtube.com/channel/UCMU2ACZ4_vtIBPWKdIWbbVg/videos), tengo 12 años y he hecho juegos como:
 
  ___

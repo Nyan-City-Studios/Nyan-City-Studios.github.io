@@ -9,7 +9,8 @@
 ![6KzWHldO_4x](https://user-images.githubusercontent.com/100703882/156247670-320fc09d-dc57-40db-ab39-ee1562eb7880.png)
 
 # [The Quizzes Of H](https://helprogramador.github.io/The-Quizzes-Of-H)
-![The Quizzes of H logo](https://user-images.githubusercontent.com/108959229/178078997-5a3fb47e-3a7b-4796-be9f-331c46552b9d.png)
+![The Quizzes of H logo](https://user-images.githubusercontent.com/108959229/178079144-9285afef-0589-4efd-8f6d-8490ad10baed.png)
+
 
 
 

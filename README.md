@@ -1,5 +1,5 @@
 ![Nyan City Studios Logo](https://user-images.githubusercontent.com/108959229/178078708-8ae033c6-b60d-4be7-9f20-def704bcaf89.jpg)
-# Somos Nyan City Studios un estudio de videojuegos indie especializados en el campo del terror psicologicos con algunas excepciones
+# Somos Nyan City Studios un estudio de videojuegos indie especializados en el campo del terror psicologico con algunas excepciones
 # Hemos hecho juegos como:
  ___
  

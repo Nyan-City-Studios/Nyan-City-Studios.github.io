@@ -18,4 +18,4 @@
 
 <img src="https://user-images.githubusercontent.com/100703882/163763749-cad7cc33-0a2a-44ae-98d9-7f4a3bc5df91.jpg" alt="Screenshot_20220327-165224_The Quizzes Of H.jpg" width="400" height="700" style="margin-right:0px" data-image-whitelisted="" class="CToWUd">
 
-# [Politica de Privacidad](https://helprogramador.github.io/The-Quizzes-Of-H/Politica-de-privacidad)
+# [Politica de Privacidad](https://nyan-city-studios.github.io/The-Quizzes-Of-H/Politica-de-privacidad)

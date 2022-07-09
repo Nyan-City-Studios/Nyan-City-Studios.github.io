@@ -14,6 +14,6 @@
 
 
 
-[Twitter](https://twitter.com/H_Elprogramado)
+[Twitter](https://twitter.com/NyanCityStudios)
 [Youtube](https://www.youtube.com/channel/UCMU2ACZ4_vtIBPWKdIWbbVg)
 [Itch.io](https://h-elprogramador.itch.io)

@@ -15,5 +15,5 @@
 
 
 [Twitter](https://twitter.com/NyanCityStudios)
-[Youtube](https://www.youtube.com/channel/UCMU2ACZ4_vtIBPWKdIWbbVg)
+[Youtube](https://www.youtube.com/channel/UCnR2MvgUhELygpupPTab8uA)
 [Itch.io](https://h-elprogramador.itch.io)

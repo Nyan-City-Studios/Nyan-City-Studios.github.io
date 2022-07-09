@@ -1,3 +1,5 @@
+![Banner Youtube NCS](https://user-images.githubusercontent.com/108959229/178089042-a84063f5-1632-4ae5-9bea-5d4179bc735e.png)
+
 # Somos Nyan City Studios un estudio de videojuegos indie especializados en el campo del terror psicologico con algunas excepciones
 # Hemos hecho juegos como:
  ___
